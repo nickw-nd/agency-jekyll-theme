@@ -1,15 +1,16 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: Tiger Woods
+subtitle: GOAT
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+img: Tiger-Woods.png
+thumbnail: tiger-thumb.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Tiger Woods is my favorite golfer and one of the greatest ever. Watching him play—especially during his comeback—has been so inspiring. His focus, passion, and skill changed the game and made golf exciting for a whole new generation.
+
 
 ---
