@@ -1,15 +1,15 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: Rory McIlroy
+subtitle: Comeback
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+img: Rory.png
+thumbnail: rory-thumb.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Rory McIlroy is another favorite of mine, with this years Masters win, he has cemented himself as one of the greats by being the 6th player to achieve a grand slam. He has a great comeback story, not winning a major in 10 years. Watching him win the Masters was an awesome experience. 
 
 ---
