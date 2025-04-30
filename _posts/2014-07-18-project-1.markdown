@@ -3,8 +3,8 @@ title: The Masters
 subtitle: Augusta National
 layout: default
 modal-id: 1
-img: MastersTournamentLogo.svg.png
-thumbnail: MastersTournamentLogo.svg.png
+img: dreams.png
+thumbnail: 
 alt: image-alt
 description: The Masters is a major golf tournament held each April at Augusta National in Georgia. It's known for its green jacket tradition and is one of the most prestigious events in the sport.
 
